@@ -1,0 +1,6 @@
+{
+  "name": "Resize Search",
+  "description": "Adds a feature that allows you to drag the side of the search box to resize it, similarly to the emote/gif/sticker selector.",
+  "version": "1.0.0",
+  "author": "SpoonMcForky"
+}
