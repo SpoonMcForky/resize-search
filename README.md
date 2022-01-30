@@ -3,7 +3,7 @@
 
  ## Installation
  - Open a terminal
- - Paste this `cd %userprofile%\Astra\pluginsAstra && git clone https://github.com/SpoonMcForky/resize-search`
+ - Paste this `cd %userprofile%\Astra\plugins\Astra && git clone https://github.com/SpoonMcForky/resize-search`
  - Enable the plugin within Discord
 
  ### Warning!
