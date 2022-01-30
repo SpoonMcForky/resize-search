@@ -1,6 +1,7 @@
 # Resize Search
  Adds a feature that allows you to drag the side of the search box to resize it, similarly to the emote/gif/sticker selector.
-
+## Example
+<img src="example.gif" width="75%" height="75%"/>
  ## Installation
  - Open a terminal
  - Paste this `cd %userprofile%\Astra\plugins\Astra && git clone https://github.com/SpoonMcForky/resize-search`
